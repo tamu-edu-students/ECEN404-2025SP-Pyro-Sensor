@@ -70,7 +70,7 @@ _This section is reserved for the hardware team to describe the physical fire/sm
 - A Firebase `google-services.json` file in `/app/`
 - Twilio API credentials if testing emergency SMS functionality
 
-  ## Getting Started (MCU)
+## Getting Started (MCU)
 
 ### Prerequisites
 - ESP-IDF environment installed (e.g., Visual Studio Code) to build project.
